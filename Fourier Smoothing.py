@@ -29,7 +29,7 @@ print("")
 print("Fourier transform of this...")
 show()
 
-## Smoothening process...
+## Smoothening process..
 
 print("")
 print("After smoothening....")
